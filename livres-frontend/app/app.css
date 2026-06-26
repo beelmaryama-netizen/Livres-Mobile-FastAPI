@@ -1,0 +1,156 @@
+Page {
+  background-color: #eef3fb;
+  font-family: Arial;
+}
+
+ActionBar {
+  background-color: #183b7a;
+  color: white;
+}
+
+.login-page {
+  padding: 26;
+  background-color: #eef3fb;
+}
+
+.login-title {
+  font-size: 34;
+  font-weight: bold;
+  color: #183b7a;
+  margin-top: 45;
+  margin-bottom: 6;
+}
+
+.login-subtitle {
+  font-size: 17;
+  color: #64748b;
+  margin-bottom: 30;
+}
+
+.login-card {
+  background-color: white;
+  border-radius: 22;
+  padding: 22;
+  margin-top: 10;
+}
+
+.section-title {
+  font-size: 24;
+  font-weight: bold;
+  color: #111827;
+  margin-bottom: 18;
+}
+
+.page {
+  padding: 20;
+  background-color: #eef3fb;
+}
+
+.title {
+  font-size: 28;
+  font-weight: bold;
+  color: #183b7a;
+  margin-bottom: 12;
+}
+
+.subtitle {
+  font-size: 16;
+  color: #64748b;
+  margin-bottom: 25;
+}
+
+.input {
+  background-color: #f8fafc;
+  color: #111827;
+  border-left-color: #94a3b8;
+  border-radius: 14;
+  padding: 16;
+  margin-bottom: 14;
+  font-size: 16;
+}
+
+.input-area {
+  background-color: #f8fafc;
+  color: #111827;
+  border-left-color: #94a3b8;
+  border-radius: 14;
+  padding: 16;
+  height: 110;
+  margin-bottom: 14;
+  font-size: 16;
+}
+
+.btn-main,
+.btn {
+  background-color: #2563eb;
+  color: white;
+  font-size: 17;
+  font-weight: bold;
+  border-radius: 16;
+  padding: 16;
+  margin-top: 8;
+  margin-bottom: 10;
+}
+
+.btn-secondary {
+  background-color: #475569;
+  color: white;
+  font-size: 15;
+  font-weight: bold;
+  border-radius: 14;
+  padding: 13;
+  margin-top: 6;
+  margin-bottom: 8;
+}
+
+.btn-danger {
+  background-color: #dc2626;
+  color: white;
+  font-size: 15;
+  font-weight: bold;
+  border-radius: 14;
+  padding: 13;
+  margin-top: 8;
+  margin-bottom: 8;
+}
+
+.card {
+  background-color: white;
+  border-radius: 20;
+  padding: 18;
+  margin-top: 12;
+  margin-bottom: 10;
+}
+
+.card-title {
+  font-size: 22;
+  font-weight: bold;
+  color: #111827;
+  margin-bottom: 8;
+}
+
+.card-text {
+  font-size: 15;
+  color: #334155;
+  margin-bottom: 6;
+}
+
+.status {
+  font-size: 15;
+  color: #2563eb;
+  font-weight: bold;
+  margin-top: 6;
+}
+
+.error {
+  color: #dc2626;
+  font-size: 14;
+  margin-top: 12;
+}
+
+.info {
+  color: #334155;
+  font-size: 15;
+  margin-top: 10;
+  margin-bottom: 10;
+}
